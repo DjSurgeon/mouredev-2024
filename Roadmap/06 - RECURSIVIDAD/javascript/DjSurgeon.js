@@ -53,4 +53,4 @@ function fibonacci(position) {
       return array[array.length - 1];
     }
 }
-console.log(fibonacci(8)); // Print 21
+// console.log(fibonacci(8)); // Print 21
